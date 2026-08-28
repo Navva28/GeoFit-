@@ -1,0 +1,10 @@
+{
+  "name": "GEOFIT",
+  "description": "Fitness meets geospatial territory capture. Run, track your live GPS route, complete a closed loop, and capture real-world territory.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
